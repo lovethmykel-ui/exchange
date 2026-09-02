@@ -5,7 +5,7 @@ import { Header } from "@/components/layout/Header";
 import { 
   ArrowRight, Shield, ShieldCheck, Lock, Activity, 
   CheckCircle2, Star, ArrowLeftRight, ChevronDown, 
-  ChevronUp, Sparkles, TrendingUp, Cpu
+  ChevronUp, Sparkles, TrendingUp, Cpu, Bot
 } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { motion } from "framer-motion";
